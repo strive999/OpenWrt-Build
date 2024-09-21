@@ -46,7 +46,7 @@ git clone https://github.com/CHN-beta/rkp-ipid.git package/lean/rkp-ipid
 git clone https://github.com/sirpdboy/NetSpeedTest.git package/lean/NetSpeedTest
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/luci-app-poweroff
 git clone https://github.com/aswifi/luci-app-autotimeset.git package/lean/luci-app-autotimeset
-git clone https://github.com/lucikap/luci-app-ua2f.git
+git clone https://github.com/lucikap/luci-app-ua2f
 # Update libs
 git clone https://github.com/openwrt/packages.git package
 
